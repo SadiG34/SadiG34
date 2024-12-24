@@ -10,9 +10,10 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=SadiG34&style=flat-square&color=blue" alt=""/>
-
-## Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **SadiG34/SadiG34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
