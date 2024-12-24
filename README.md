@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: I study programming, new libs, tools.
 
 - :zap: In my free time I solve tasks on CodeWars and read technical articles.
-- 
+  
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SatorrruGojo)
 
 ---
