@@ -30,4 +30,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=white)](mailto:super.sadig@list.ru)
+- :mailbox:How to reach me: <a href="mailto:super.sadig@list.ru">[![mail.ru Badge](https://img.shields.io/badge/-mail.ru-blue?style=flat&logo=mail.ru&logoColor=white)]</a>
+
