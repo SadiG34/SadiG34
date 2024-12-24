@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611nxt7yfipw3ys89fwzyj9c3wrdkw9ak32nh94mgws&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="https://vk.com/sadig72"/>
+  <img src="https://img.shields.io/badge/VK-black?style=for-the-badge&logo=VK&logoColor=white" alt="https://vk.com/sadig72"/>
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="https://t.me/SatorrruGojo"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=SadiG34&style=flat-square&color=blue" alt=""/>
