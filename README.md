@@ -27,12 +27,12 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a software engineer, testing applications, helping with development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I study programming, new libs, tools.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :zap: In my free time I solve problems on CodeWars and read technical articles.
+- 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SatorrruGojo)
 
 ---
@@ -56,7 +56,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SadiG34&theme=dark" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiG34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
