@@ -18,7 +18,7 @@
 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)" width="600" height="300"/>
 </div>
 
 ---
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I study programming, new libs, tools.
 
-- :zap: In my free time I solve problems on CodeWars and read technical articles.
+- :zap: In my free time I solve tasks on CodeWars and read technical articles.
 - 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SatorrruGojo)
 
