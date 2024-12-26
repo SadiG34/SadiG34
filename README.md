@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/sadig72">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-dark?style=for-the-badge&logo=twitter&logoColor=white" alt="VK Badge"/>
   </a>
     <a href="https://www.linkedin.com/in/sadig-abdullaev-a424a6342/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
