@@ -8,6 +8,9 @@
   <a href="https://vk.com/sadig72">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/sadig-abdullaev-a424a6342/">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=SadiG34&style=flat-square&color=blue" alt=""/>
 
