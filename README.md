@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+<div>
+      <a href="https://www.codewars.com/users/Sadig123)">
+    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=white" alt="CodeWars"/>
+  </a>
+</div>
 <img src="https://komarev.com/ghpvc/?username=SadiG34&style=flat-square&color=blue" alt=""/>
 
 <h1>
