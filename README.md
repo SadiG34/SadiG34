@@ -13,7 +13,7 @@
   </a>
 </div>
 <div>
-      <a href="https://www.codewars.com/users/Sadig123)">
+      <a href="https://www.codewars.com/users/Sadig123">
     <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=white" alt="CodeWars"/>
   </a>
 </div>
